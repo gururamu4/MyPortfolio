@@ -140,10 +140,9 @@ export const gitProfile = {
 }
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/gururamu",
-  // github: "https://github.com/gururamu4",
+  github: "https://github.com/gururamu4",
   gmail: "gururamu4497@gmail.com",
   twitter: "https://twitter.com/guru_ram44",
-  facebook: "https://www.facebook.com/guru.andiappan.7/",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
